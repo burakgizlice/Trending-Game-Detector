@@ -1,0 +1,1 @@
+# Trending Game Detector
